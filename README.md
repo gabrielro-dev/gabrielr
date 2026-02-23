@@ -8,4 +8,6 @@ Software Engineering student at the Federal Institute of Education, Science and 
 
 **Contact me**: gabrielr.dev@gmail.com
 
+# *Sobre mim* <h1>
+
 Estudante de Engenharia de Software no Instituto Federal de São Paulo (IFSP), campos São Carlos. Minhas áreas de interesse são software development, web development, AI Engineering, Cybersecurity e Forensic Computing. 
