@@ -1,6 +1,6 @@
 # *About Me* <h1>
 
-Gabriel Resende Oliveros, 23 anos.
+Gabriel Resende Oliveros, 23yo.
 
 Software Engineering student at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), on the São Carlos campus. My interests in the technological field are towards software development, web development, AI Engineering, Cybersecurity and Forensic Computing. 
 
