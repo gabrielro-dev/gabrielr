@@ -14,4 +14,14 @@ My current focus is improving as a developer by deepening my knowledge in progra
 
 # *Sobre mim* <h1>
 
+Gabriel Resende Oliveros, 23 anos.
+
 Estudante de Engenharia de Software no Instituto Federal de São Paulo (IFSP), campos São Carlos. Minhas áreas de interesse são software development, web development, AI Engineering, Cybersecurity e Forensic Computing. 
+
+Meus interesses na área da tecnologia são voltados ao **desenvolvimento de software**, **desenvolvimento web**, **Engenharia de IA**, **Cybersegurança** e **Computação Forense**. Explorar novas tecnologias e entender como estas podem ser aplicadas para a resolução de problemas é algo que considero importante para o desenvolvimento profissional.
+
+Meu foco atual é melhorar enquanto desenvolvedor, aprofundando minha lógica e conhecimento em linguagens de programação, frameworks web, fundamentos de IA e técnicas de forense digital.
+
+**Meu portfólio**: [LinkedIn](https://www.linkedin.com/in/gabriel-resende-oliveros/)
+
+**Contato**: gabrielr.dev@gmail.com
