@@ -6,6 +6,8 @@ Software Engineering student at the Federal Institute of Education, Science and 
 
 My interests in the technological field are towards **software development**, **web development**, **AI Engineering**, **Cybersecurity** and **Forensic Computing**. Exploring new technologies and understanding how they can be applied for problem solving situations is crucial for professional upgrade.
 
+My current focus is improving as a developer by deepening my knowledge in programming languages, web frameworks, AI fundamentals, and digital forensics techniques.
+
 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/gabriel-resende-oliveros/)
 
 **Contact me**: gabrielr.dev@gmail.com
