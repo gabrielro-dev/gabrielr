@@ -2,7 +2,7 @@
 
 Gabriel Resende Oliveros, 23yo.
 
-Software Engineering student at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), on the São Carlos campus. My interests in the technological field are towards **software development**, **web development**, **AI Engineering**, **Cybersecurity** and **Forensic Computing**. 
+Software Engineering student at the Federal Institute of Education, Science and Technology of São Paulo (IFSP), on the São Carlos campus. My interests in the technological field are towards **software development**, **web development**, **AI Engineering**, **Cybersecurity** and **Forensic Computing**. Exploring new technologies and understanding how they can be applied for problem solving means.
 
 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/gabriel-resende-oliveros/)
 
