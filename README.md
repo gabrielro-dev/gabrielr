@@ -6,7 +6,9 @@ Software Engineering student at the Federal Institute of Education, Science and 
 
 My interests in the technological field are towards **software development**, **web development**, **AI Engineering**, **Cybersecurity** and **Forensic Computing**. Exploring new technologies and understanding how they can be applied for problem solving situations is crucial for professional upgrade.
 
-My current focus is improving as a developer by deepening my knowledge in programming languages, web frameworks, AI fundamentals, and digital forensics techniques.
+My current focus is improving as a developer by deepening my knowledge in programming languages, web frameworks, AI fundamentals, and digital forensics techniques. As for my hobbies, I've been spending some time drawing and making renders in Blender to improve myself as a graphic designer. Apart from that I've only been dedicating myself to software engineering.
+
+I've had experiences with multiple IDEs and programming languages, as well as upgrading my prompt engineering skills given that refining natural language into inputs is desired in employees by today's corporte world. Regarding different languages, I have achieved a great level with the english language boosting my chances of exporting my talents abroad.
 
 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/gabriel-resende-oliveros/)
 
