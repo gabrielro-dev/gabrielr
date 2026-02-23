@@ -1,4 +1,4 @@
-__About Me__ <h1>
+__About Me__
 
 Gabriel Resende Oliveros, 23 anos.
 
